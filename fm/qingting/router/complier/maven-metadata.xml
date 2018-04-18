@@ -3,14 +3,10 @@
   <groupId>fm.qingting.router</groupId>
   <artifactId>complier</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.0.1</release>
     <versions>
-      <version>1.0.0</version>
+      <version>1.0.1</version>
     </versions>
-<<<<<<< HEAD
-    <lastUpdated>20180418072532</lastUpdated>
-=======
-    <lastUpdated>20180418080716</lastUpdated>
->>>>>>> fix pom file 404
+    <lastUpdated>20180418082952</lastUpdated>
   </versioning>
 </metadata>
