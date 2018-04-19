@@ -3,14 +3,10 @@
   <groupId>fm.qingting.router</groupId>
   <artifactId>complier</artifactId>
   <versioning>
-    <release>1.0.1</release>
+    <release>1.0.2</release>
     <versions>
-      <version>1.0.1</version>
+      <version>1.0.2</version>
     </versions>
-<<<<<<< HEAD
-    <lastUpdated>20180418101210</lastUpdated>
-=======
-    <lastUpdated>20180418100847</lastUpdated>
->>>>>>> eb9817304a0625ebed1846575c19d80257f6168c
+    <lastUpdated>20180419044108</lastUpdated>
   </versioning>
 </metadata>
