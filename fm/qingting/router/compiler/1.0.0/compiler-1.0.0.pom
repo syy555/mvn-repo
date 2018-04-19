@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>fm.qingting.router</groupId>
-  <artifactId>complier</artifactId>
-  <version>1.0.2</version>
-  <name>Router Complier</name>
+  <artifactId>compiler</artifactId>
+  <version>1.0.0</version>
+  <name>Router Compiler</name>
   <description></description>
   <url>https://git2.qingtingfm.com/app/router</url>
   <licenses>
@@ -49,7 +49,7 @@
       <groupId>router</groupId>
       <artifactId>annotation</artifactId>
       <version>unspecified</version>
-      <scope>runtime</scope>
+      <scope>compile</scope>
     </dependency>
   </dependencies>
 </project>
