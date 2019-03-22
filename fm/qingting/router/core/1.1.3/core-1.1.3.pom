@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>fm.qingting.router</groupId>
+  <artifactId>core</artifactId>
+  <version>1.1.3</version>
+  <packaging>aar</packaging>
+  <name>Router Core</name>
+  <description></description>
+  <url>https://git2.qingtingfm.com/app/router</url>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/licenses/MIT</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>lee</id>
+      <name>yinle&lt;yinle@qingting.fm></name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@git2.qingtingfm.com:app/router.git</connection>
+    <developerConnection>scm:git@git2.qingtingfm.com:app/router.git</developerConnection>
+    <url>https://git2.qingtingfm.com/app/router</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>fm.qingting.router</groupId>
+      <artifactId>annotation</artifactId>
+      <version>1.0.7</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>appcompat-v7</artifactId>
+      <version>26.1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-stdlib-jdk7</artifactId>
+      <version>1.2.51</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
